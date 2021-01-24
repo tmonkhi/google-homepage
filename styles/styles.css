@@ -70,8 +70,8 @@ input[type="text"]{
 p i{
 font-size: 13px;
    position: absolute;
-   margin-top: 276px;
-   margin-left: 420px;
+   margin-top: 304px;
+   margin-left: 475px;
    padding:auto;
    color: #9AA0A6;
    
@@ -81,8 +81,8 @@ li i{
     display: flex;
     justify-content:50px space-evenly;
     position: absolute;
-    top: 290px;
-    left: 940px;
+    top: 318px;
+    left: 995px;
     font-size: 13px;
     color: #9AA0A6;
 
