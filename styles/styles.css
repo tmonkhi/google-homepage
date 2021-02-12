@@ -104,6 +104,22 @@ li i{
 
 }
 
+button:hover{
+    animation-name: color;
+    animation-duration: 3s;
+}
+@keyframes color{
+    0%{
+        background-color:pink;
+    }
+    50%{
+        background-color: yellow;
+    }
+    100%{
+        background-color: aquamarine;
+    }
+}
+
 .button-2-style{
     display: block;
     width: 135px;
